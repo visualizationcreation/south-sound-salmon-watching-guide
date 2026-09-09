@@ -4,7 +4,7 @@ Autumn 2026 illustrated field guide.
 
 20 points, 11 locations, and ORB Learn with locally generated Kokoro Michael narration. Written by Astra.
 
-Images are locally generated photo-style illustrations, not exact site photographs or current sightings. Dates are recommendations within typical seasons, except specifically identified event and access hours. Sources checked September 8, 2026.
+Real photographs are the default at all 20 points. The original 20 local AI illustrations remain available through the image switch. Photos include attribution, license and source links; broader town or watershed views are identified in captions. See PHOTO-CREDITS.md. Neither photos nor illustrations are current sighting reports. Dates are recommendations within typical seasons, except specifically identified event and access hours. Sources checked September 8, 2026.
 
 Open index.html for local browsing. Relative images and audio are included; evidence and map links require internet. LocalStorage is optional.
 

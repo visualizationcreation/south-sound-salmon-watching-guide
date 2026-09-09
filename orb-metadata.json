@@ -2,14 +2,14 @@
   "id": "south-sound-salmon-watching-guide",
   "title": "South Sound Salmon Watching Guide",
   "edition": "Autumn 2026",
-  "description": "11 salmon viewing locations, seasonal visit planning, 20 illustrated points, and a continuous educational audio course.",
+  "description": "11 salmon viewing locations, 20 real photographs with optional local illustrations, seasonal visit planning, and a continuous educational audio course.",
   "authorship": {
     "writer": "Astra · primary assistant",
     "localLLMUsedForWriting": false
   },
   "pointCount": 20,
   "locationCount": 11,
-  "imageCount": 20,
+  "imageCount": 40,
   "availableJourneys": [
     {
       "name": "ORB Learn — Spiral Audio Course",
@@ -18,5 +18,8 @@
       "voice": "Kokoro Michael"
     }
   ],
-  "checked": "2026-09-08"
+  "checked": "2026-09-08",
+  "photoCount": 20,
+  "illustrationCount": 20,
+  "defaultImageMode": "photo"
 }
