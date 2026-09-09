@@ -1,0 +1,370 @@
+{
+  "course": {
+    "id": "learn",
+    "style": "active",
+    "name": "ORB Learn — Spiral Audio Course",
+    "scriptRevision": "salmon-learn-2026-09-08-v1",
+    "route": [
+      "the-return",
+      "season-calendar",
+      "fifth-avenue",
+      "tumwater-falls",
+      "the-leap",
+      "sol-duc",
+      "issaquah",
+      "read-the-water",
+      "bayshore",
+      "hoodsport",
+      "kennedy-creek",
+      "donkey-creek",
+      "mclane-creek",
+      "swan-creek",
+      "hoh-rainforest",
+      "finding-home",
+      "the-redd",
+      "river-and-forest",
+      "what-we-cannot-predict",
+      "choose-your-outing"
+    ],
+    "audioReady": true,
+    "audio": "audio/learn.mp3",
+    "duration": 784.9267916666666,
+    "voice": "Kokoro Michael",
+    "voiceId": "am_michael",
+    "provider": "Kokoro ONNX local",
+    "audioSha256": "a596639aea559e76b6c4ffa661a1b0e2acc3d494f6baf2fe3429bb2f7fa0f288",
+    "boundaryGranularity": "paragraph",
+    "authorship": {
+      "writer": "Astra · primary assistant",
+      "localLLMUsedForWriting": false
+    }
+  },
+  "passages": [
+    {
+      "pointId": "the-return",
+      "sha256": "7a2a1f07a17792b9d2cfc1a51d0d4a39061823ebd8631d31a4bb5cca4d146622",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:13.203426+00:00",
+      "duration": 40.82058333333333,
+      "offline": true
+    },
+    {
+      "pointId": "season-calendar",
+      "sha256": "994ff21b1c6810eb1973647fd0796c7608fbb7fd00b6dd6dd1f22c8d08967696",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:16.143534+00:00",
+      "duration": 36.083333333333336,
+      "offline": true
+    },
+    {
+      "pointId": "fifth-avenue",
+      "sha256": "7c8b2b254c3fe1ebb4cc98c107841a5fcd7c80f3543d56094b75c164916e1471",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:18.792551+00:00",
+      "duration": 35.29666666666667,
+      "offline": true
+    },
+    {
+      "pointId": "tumwater-falls",
+      "sha256": "2aa1823299f09cf4bf6035cfede41d82c18362a8191033324f10b1ece35ba160",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:22.353496+00:00",
+      "duration": 40.90133333333333,
+      "offline": true
+    },
+    {
+      "pointId": "the-leap",
+      "sha256": "c8fbbe266d4b53ca79dff0f9c9e19cb15c5ccce2ef9389f516967fff72f12233",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:25.084243+00:00",
+      "duration": 36.118,
+      "offline": true
+    },
+    {
+      "pointId": "sol-duc",
+      "sha256": "6242b4bcfee923e1ce38743b96e5b11e6348c5852d6b0ea8a0f9b94a2dbcd0c5",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:28.525967+00:00",
+      "duration": 39.67129166666667,
+      "offline": true
+    },
+    {
+      "pointId": "issaquah",
+      "sha256": "379489d2141fbcf0249fc44fa034bb7221e425daa88772ce536ab21ac1515ffa",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:31.548762+00:00",
+      "duration": 37.730625,
+      "offline": true
+    },
+    {
+      "pointId": "read-the-water",
+      "sha256": "b109d6fa139c208dcfe7b4eba7489baf119dfa1d666800f6dcb38508ec2a2464",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:34.626040+00:00",
+      "duration": 37.800625,
+      "offline": true
+    },
+    {
+      "pointId": "bayshore",
+      "sha256": "be72ecd32d201ddf8822e5c3ef9e020b69442721097dc9fc0642cbbd172152d3",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:38.143775+00:00",
+      "duration": 40.340666666666664,
+      "offline": true
+    },
+    {
+      "pointId": "hoodsport",
+      "sha256": "fd6eac2d6c2b6490bafe1ff5453dc93f7603d00aa6f599b79e4b6aa9f80aca9b",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:41.543520+00:00",
+      "duration": 39.23,
+      "offline": true
+    },
+    {
+      "pointId": "kennedy-creek",
+      "sha256": "9695a5683c4c71a5a507bf6dfa6eb3ca21960bb65fd5fd2455ecb7e36171927f",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:44.835375+00:00",
+      "duration": 38.18929166666667,
+      "offline": true
+    },
+    {
+      "pointId": "donkey-creek",
+      "sha256": "d29421bd63cbb45714310fbeb5ebb349bd949d4c10b3e8997e8bbf00a683c6f7",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:47.913832+00:00",
+      "duration": 36.542,
+      "offline": true
+    },
+    {
+      "pointId": "mclane-creek",
+      "sha256": "8a9aeb904bfa7882d921ca8e505705a35cfd5271c29ebf291a47b6c3fc420c2b",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:51.325002+00:00",
+      "duration": 39.25791666666667,
+      "offline": true
+    },
+    {
+      "pointId": "swan-creek",
+      "sha256": "b53fdd5e23950f6326474995da6effdfab581020c2cb4fb6c07577666333d0e4",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:54.708966+00:00",
+      "duration": 39.91266666666667,
+      "offline": true
+    },
+    {
+      "pointId": "hoh-rainforest",
+      "sha256": "f5409ef7f14dd1cf8e09989bc664b980245f6ad206e916460112e1f514d4a7c3",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:34:57.753439+00:00",
+      "duration": 36.93329166666667,
+      "offline": true
+    },
+    {
+      "pointId": "finding-home",
+      "sha256": "ed229775304ff0903603b57947e47adcbd45a7e164e98e551fde096358f2174d",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:35:01.009216+00:00",
+      "duration": 38.562666666666665,
+      "offline": true
+    },
+    {
+      "pointId": "the-redd",
+      "sha256": "6d51dcf5df322d3b7adc93e04aa2f2604db99dcff1e7494c1ee6d445d0d19859",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:35:03.834658+00:00",
+      "duration": 34.960625,
+      "offline": true
+    },
+    {
+      "pointId": "river-and-forest",
+      "sha256": "d655ef0758cc36a318eeabf5ebb1b612969ed033c8bd37d355ae1ef68fe8ccd6",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:35:07.566074+00:00",
+      "duration": 40.23,
+      "offline": true
+    },
+    {
+      "pointId": "what-we-cannot-predict",
+      "sha256": "32a7111ce3c0a13ee4d3bca07cbefd1e1ea8b27c8282603cd55beacb1e05c8b6",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:35:11.493020+00:00",
+      "duration": 42.57329166666667,
+      "offline": true
+    },
+    {
+      "pointId": "choose-your-outing",
+      "sha256": "e361eb18fb85b87bf304fbb08228d20ca6cf9b34ab634ec33f69639d3d9e5608",
+      "voiceId": "am_michael",
+      "settings": {
+        "speed": 0.98,
+        "paragraphGapSeconds": 0.55
+      },
+      "modelFiles": {
+        "modelPathSha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+        "voicesPathSha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+      },
+      "generatedAt": "2026-09-09T03:35:14.801476+00:00",
+      "duration": 37.76929166666667,
+      "offline": true
+    }
+  ],
+  "review": {
+    "scriptContinuityReviewed": true,
+    "exactSpokenTextVerified": true,
+    "decodeAndPeakChecksPassed": true,
+    "fullListeningReview": false
+  }
+}

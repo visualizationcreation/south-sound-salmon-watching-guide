@@ -1,0 +1,1025 @@
+{
+  "images": [
+    {
+      "pointId": "the-return",
+      "prompt": "High-end nature photograph aesthetic, overhead view looking straight down into a clear Pacific Northwest river. Three adult salmon seen entirely underwater from ABOVE, dark olive backs and natural streamlined silhouettes over rounded river stones, subtle caustics and ripples. No fish above water, no side-view fish, no outstretched fins. Salmon occupy about one third of the scene, river gravel and dark green reflections fill the rest. Landscape 16:9, autumn, no text or collage.",
+      "seed": 908260,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:42:34.696151+00:00",
+      "sha256": "46a6160195903b0b79fe9b3d9a6d5c5baa83d3c814ef566626b04ecef5aeb9bb",
+      "promptId": "09b5edbf-8950-42a7-8f83-2b48ae370bfb",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/the-return.webp",
+      "displaySha256": "d695a44fa969e8225fbd659a3c87be39d1156d1d4634d1fb067e5af89fab74ce",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustration of salmon silhouettes beneath the surface of a clear gravel-bottom river."
+    },
+    {
+      "pointId": "season-calendar",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Autumn riverbank still life: three fallen bigleaf maple leaves in green, gold and copper resting on wet rounded stones next to flowing water, sharply detailed leaf veins, diagonal composition, soft overcast light.",
+      "seed": 908261,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:26:41.201376+00:00",
+      "sha256": "f6eea1a3ffe034ffadfb97ce37703a21735831cdd225a339b20b01b5256cf3bb",
+      "promptId": "ce1fa993-fedb-4f10-9073-dfeed0063598",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/season-calendar.webp",
+      "displaySha256": "2339e264cdbd029b1d31b193e77b74c74cc2a17858d75493de6d185f3c907c1a",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Autumn riverbank still life: three fallen bigleaf maple leaves in green, gold and copper resting on wet rounded stones next to flowing water, sharply detailed leaf veins, diagonal composition, soft overcast light."
+    },
+    {
+      "pointId": "fifth-avenue",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style scene inspired by downtown Olympia Washington: a low pedestrian walkway above an urban waterway connecting a calm inlet to a lake, overcast autumn light, deciduous trees, modest distant city buildings, no prominent invented monuments.",
+      "seed": 908262,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:26:45.239320+00:00",
+      "sha256": "aadf3e393a64f116a1d288b183294d8878d9d0ecc41437d4098ad91f30d71488",
+      "promptId": "acd16266-1b33-4fb2-96a2-e93614321b4e",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/fifth-avenue.webp",
+      "displaySha256": "eebd2513588f9ef7a902b9dc3ce2c4380dfe1b4fa6529bd8b64b148cc14edcde",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated scene inspired by downtown Olympia Washington: a low pedestrian walkway above an urban waterway connecting a calm inlet to a lake, overcast autumn light, deciduous trees, modest distant city buildings, no prominent invented monuments."
+    },
+    {
+      "pointId": "tumwater-falls",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style location-inspired view of the Deschutes River at Tumwater Falls Washington: wide low cascades over dark rock, amber autumn maples, evergreen trees, sturdy riverside railing in the far background, realistic cloudy daylight. Focus on water and forest rather than exact buildings.",
+      "seed": 908263,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:26:49.295210+00:00",
+      "sha256": "d880db7bf5f2e77bc1ee182dc833fd2e8c0f0d3037eeff49df33d6bca21cf482",
+      "promptId": "cf6e82ab-6317-4f5e-8b89-796cb81fd832",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/tumwater-falls.webp",
+      "displaySha256": "b6e4ab07b725325e1b24b9524e4d348ef4f6fe75892d4d6e3bf8e2018c78d9e1",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated location-inspired view of the Deschutes River at Tumwater Falls Washington: wide low cascades over dark rock, amber autumn maples, evergreen trees, sturdy riverside railing in the far background, realistic cloudy daylight. Focus on water and forest rather than exact buildings."
+    },
+    {
+      "pointId": "the-leap",
+      "prompt": "High detail landscape 16:9, photorealistic illustrative wildlife scene. No text, watermark, diagram, collage or frame. One mature male COHO SALMON leaping over a low stream cascade, whole side of body dark burgundy red, olive green head with hooked jaw, sparse tiny spots on back only, plain lower tail lobe. Natural streamlined fish and one forked tail. This is spawning Oncorhynchus kisutch, not rainbow trout: no pink stripe or densely dotted silver flanks. Telephoto action wildlife photograph aesthetic, dark evergreen forest behind, fish fully visible in profile.",
+      "seed": 908264,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:39:53.686438+00:00",
+      "sha256": "5b47d2126216ce2a12001dd7f5a3459fde082a65cf6b85b41bc179be4140ade4",
+      "promptId": "273445f1-f48c-40ff-a2ac-93340174dbd2",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/the-leap.webp",
+      "displaySha256": "78226941ea12237fb5823011528a25e180496187e835b015de9a401e1000a0f5",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Telephoto wildlife-style illustration of one adult coho salmon in a low upward leap at a small forest cascade, olive back and muted red flanks, one natural forked tail, coherent fish anatomy, droplets frozen in air, dark river behind. Side view, no other animals."
+    },
+    {
+      "pointId": "sol-duc",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style landscape inspired by Salmon Cascades on the Sol Duc River: turquoise river squeezing over a stepped dark bedrock ledge, white cascade, dense old-growth conifers, low viewpoint across the river, a few autumn leaves at the edge, no enormous waterfall and no bridge.",
+      "seed": 908265,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:26:57.378076+00:00",
+      "sha256": "759df6e95c28abf85c1f9d1befb338e4e9ddf7d71518cbf9b0ce5f2547ac1467",
+      "promptId": "5de801d4-d0fb-4dfd-a1f2-47f420d81bd9",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/sol-duc.webp",
+      "displaySha256": "79de6a9522220d0371a700e42547fd4569d8625b9858b421d82c786ac7a5d517",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated landscape inspired by Salmon Cascades on the Sol Duc River: turquoise river squeezing over a stepped dark bedrock ledge, white cascade, dense old-growth conifers, low viewpoint across the river, a few autumn leaves at the edge, no enormous waterfall and no bridge."
+    },
+    {
+      "pointId": "issaquah",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style scene inspired by a Pacific Northwest salmon hatchery underwater viewing window: several naturally proportioned salmon behind a broad clean rectangular glass window, subtle water-green illumination, dark viewing area, one quiet adult visitor in silhouette at far edge, no signs or text.",
+      "seed": 908266,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:01.428040+00:00",
+      "sha256": "e15168b28cc800c694d376b9ce9abea038f70f804f55707c6f7d5323c4083211",
+      "promptId": "40eeaecb-eef8-4f70-99d9-7e5b2ae98ada",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/issaquah.webp",
+      "displaySha256": "9ae3c2837600cc8f50cd0e83d5e3bd4408f59cf742405b2427c5b2243719f9e0",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated scene inspired by a Pacific Northwest salmon hatchery underwater viewing window: several naturally proportioned salmon behind a broad clean rectangular glass window, subtle water-green illumination, dark viewing area, one quiet adult visitor in silhouette at far edge, no signs or text."
+    },
+    {
+      "pointId": "read-the-water",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Close photo-style image from an established wooden creek viewing platform: simple polarized sunglasses resting on a wet railing, beyond them clear shallow water over golden pebbles, dark cedar reflections, no people in the creek.",
+      "seed": 908267,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:05.493999+00:00",
+      "sha256": "971827e0f1a0692997c6f3ec86cf49fd33f533b3b6f2320a2f570a5414b81ad1",
+      "promptId": "d08dd56c-7d80-441a-af86-85ac82e35a18",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/read-the-water.webp",
+      "displaySha256": "1aad641f547eade740dd975951ce68c30459969456f63f9d0db34037a235d5eb",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Close illustrated image from an established wooden creek viewing platform: simple polarized sunglasses resting on a wet railing, beyond them clear shallow water over golden pebbles, dark cedar reflections, no people in the creek."
+    },
+    {
+      "pointId": "bayshore",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style landscape inspired by Bayshore Preserve near Shelton: a small clear creek entering a broad tidal inlet, saltmarsh grass golden in November, a modest wooden pedestrian bridge set back upstream, forested opposite shoreline, pale reflective sky.",
+      "seed": 908268,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:09.541032+00:00",
+      "sha256": "95d13bc3d8ab9df9c0aa8d32b3268392a5873ec11a6067939ab28fd1de555990",
+      "promptId": "65e4b091-3776-4a84-b0ca-6682518302ea",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/bayshore.webp",
+      "displaySha256": "4636d8a306013f809f6eda4b1f7ffdc4fd6933b5efb963a116ff77cd60bd7d5e",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated landscape inspired by Bayshore Preserve near Shelton: a small clear creek entering a broad tidal inlet, saltmarsh grass golden in November, a modest wooden pedestrian bridge set back upstream, forested opposite shoreline, pale reflective sky."
+    },
+    {
+      "pointId": "hoodsport",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style location-inspired view of Hoodsport Washington on Hood Canal: small creek mouth reaching calm saltwater, distant forested hills, modest waterfront town buildings to one side, soft November clouds, natural shoreline textures, no text.",
+      "seed": 908269,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:13.597975+00:00",
+      "sha256": "2495e7df06ef44f5851ce4eee410768db9ea8180ffa29b89f60a927817dffa33",
+      "promptId": "670f6431-d8eb-493e-ae6b-a2c44a921751",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/hoodsport.webp",
+      "displaySha256": "b2d02493527d7458392af76a6aa44f258e35dcde8325cfa97d3711d5d8bcd677",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated location-inspired view of Hoodsport Washington on Hood Canal: small creek mouth reaching calm saltwater, distant forested hills, modest waterfront town buildings to one side, soft November clouds, natural shoreline textures, no text."
+    },
+    {
+      "pointId": "kennedy-creek",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style landscape inspired by Kennedy Creek Salmon Trail: shallow gravel-bottom forest creek with several dark adult chum salmon visible below the surface, ferns, leafless alder branches, small viewing platform on bank, no people in the water, soft late-autumn daylight.",
+      "seed": 908270,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:17.689229+00:00",
+      "sha256": "15262eaa0da1af2b9c1534f7df3406fd8f590c4923b56c577e383a2a4f8e7bf7",
+      "promptId": "27724f25-a993-4e9d-8a26-c28bb9db5223",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/kennedy-creek.webp",
+      "displaySha256": "f3cce3d245098f11279834e2457ec87d30322e3b3933652cf84eee8eaa927644",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated landscape inspired by Kennedy Creek Salmon Trail: shallow gravel-bottom forest creek with several dark adult chum salmon visible below the surface, ferns, leafless alder branches, small viewing platform on bank, no people in the water, soft late-autumn daylight."
+    },
+    {
+      "pointId": "donkey-creek",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style scene inspired by Donkey Creek in Gig Harbor: small restored stream beneath a simple pedestrian-friendly road crossing, waterfront museum-like timber building at edge, distant marina and sailboat masts, November maples, quiet natural colors, no invented signage.",
+      "seed": 908271,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:21.805423+00:00",
+      "sha256": "7ab0cb12a6df814e50bfc802ece47abb1ca02ef3bd8d59d4ede1ce316735522d",
+      "promptId": "3cf2959b-1753-4fc8-b484-3c6630061612",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/donkey-creek.webp",
+      "displaySha256": "4aa57754bdafe8ddc6fd484655775ed91ccec0430fb574c51f0bb60b14af7eae",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated scene inspired by Donkey Creek in Gig Harbor: small restored stream beneath a simple pedestrian-friendly road crossing, waterfront museum-like timber building at edge, distant marina and sailboat masts, November maples, quiet natural colors, no invented signage."
+    },
+    {
+      "pointId": "mclane-creek",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style scene inspired by McLane Creek Nature Trail near Olympia: intimate clear creek winding between moss-covered cedar roots, autumn leaves and ferns, wooden footbridge behind, dark salmon shapes beneath water, low viewpoint without entering stream.",
+      "seed": 908272,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:25.907348+00:00",
+      "sha256": "35789063d663103bccb2e7d0feb99bd1038b90a5973b15335af8b7aeeb365a8c",
+      "promptId": "3127bd14-e6a5-4d8e-afdb-93bd4224c8b1",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/mclane-creek.webp",
+      "displaySha256": "4bebc45c7dad86398bb7456391bcec93f61ffd1cd3cd060f29f24956cf9db5cc",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated scene inspired by McLane Creek Nature Trail near Olympia: intimate clear creek winding between moss-covered cedar roots, autumn leaves and ferns, wooden footbridge behind, dark salmon shapes beneath water, low viewpoint without entering stream."
+    },
+    {
+      "pointId": "swan-creek",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style landscape inspired by Swan Creek Tacoma: deep wooded urban ravine with a narrow shallow creek, tall bare bigleaf maples, evergreen understory, wet orange leaves, small salmon silhouettes under clear water, December diffuse light, no snow.",
+      "seed": 908273,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:30.005954+00:00",
+      "sha256": "3dc55c5bfc151a7b6c1698c7ebe9dce0d5662ea9c32e5ef3f772cc65395a091c",
+      "promptId": "da7b729a-f95d-4b7a-b288-1987a714b13d",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/swan-creek.webp",
+      "displaySha256": "ddbd60191a76ab9318348a4d1d0ac98806ab34340117dd46d6b1eef6e69fdea6",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated landscape inspired by Swan Creek Tacoma: deep wooded urban ravine with a narrow shallow creek, tall bare bigleaf maples, evergreen understory, wet orange leaves, small salmon silhouettes under clear water, December diffuse light, no snow."
+    },
+    {
+      "pointId": "hoh-rainforest",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style landscape inspired by a Hoh rainforest tributary: small translucent amber stream among enormous Sitka spruce trunks and hanging moss, few subtly visible coho under water, sword ferns, wet late-autumn rainforest, intimate eye-level composition, no dramatic waterfall.",
+      "seed": 908274,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:34.110099+00:00",
+      "sha256": "2aacb11637cf2151d3e4cefef9d199c9d10f5ccd5f7eb84ccb5e5457ee695658",
+      "promptId": "a76c88f6-cc1c-4bdd-ab66-721bcc0e6f11",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/hoh-rainforest.webp",
+      "displaySha256": "727a7d9a5046187713946f14909dd687232d546c4eed0590b1f6e7b4210353d7",
+      "caption": "Locally generated photo-style illustration inspired by this setting; not an exact site photograph or current sighting.",
+      "alt": "Illustrated landscape inspired by a Hoh rainforest tributary: small translucent amber stream among enormous Sitka spruce trunks and hanging moss, few subtly visible coho under water, sword ferns, wet late-autumn rainforest, intimate eye-level composition, no dramatic waterfall."
+    },
+    {
+      "pointId": "finding-home",
+      "prompt": "High-end landscape photograph aesthetic from above: two small clear forest streams meeting at a confluence, one tinted amber with leaves and the other reflecting deep green cedar trees, distinct textures blending naturally downstream, pebbles, moss, ferns. A visual metaphor for recognizing a home stream, no fish or animals. Landscape 16:9, subtle natural color, no diagram, text, arrows or collage.",
+      "seed": 908275,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:42:38.782309+00:00",
+      "sha256": "08aa5e0aab678e25d21e82d9fd7037b6bb2c23501ce646934dcbe4a2a6179c6f",
+      "promptId": "8508ba50-6b6e-4832-b0c4-39d030d35cdc",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/finding-home.webp",
+      "displaySha256": "392c6d6204d7a98c4600621f4ecb246191b4f37515cbd06a73df7bd0a375d35a",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustration of two small forest streams meeting, a conceptual image for homing."
+    },
+    {
+      "pointId": "the-redd",
+      "prompt": "Underwater macro nature photograph aesthetic of a shallow Pacific Northwest creek bed, clear flowing water over varied rounded gravel, a shallow depression of slightly cleaner pale stones among darker pebbles, subtle light caustics. Habitat study only, no fish, no visible eggs, no animals. Entire view underwater, no horizon or sky. Landscape 16:9, natural muted amber and olive colors, no text or collage.",
+      "seed": 908276,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:42:42.867337+00:00",
+      "sha256": "b61d02c10215c5ea673fca0f8a85fe7c46d1bf0178388d46a1edd80ee93379db",
+      "promptId": "bf1446a3-723e-4b53-9a64-5deeb5f6c343",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/the-redd.webp",
+      "displaySha256": "5d227708d148c3abb3f932b389b95d0fb6e726a5837315f6e54845e27399b3e9",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustration of clean creek gravel and a shallow depression; conceptual spawning habitat, not an observed nest."
+    },
+    {
+      "pointId": "river-and-forest",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style autumn streambank with a great blue heron standing several feet from flowing water, mossy fallen log, yellow alder leaves, forest reflected in creek, no prey in beak, quiet ecological scene with layered textures.",
+      "seed": 908277,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:46.345791+00:00",
+      "sha256": "48b770ace90ad56dc5e11e4a67a08428121c6872a4e35c83ca2a56214f26364e",
+      "promptId": "ebb93723-ec52-4d76-a16f-92522b6a6f17",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/river-and-forest.webp",
+      "displaySha256": "2492fd639b8a7336f68dc728e2deda46ecb30f5b56b5e4670289f96594258735",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustrated autumn streambank with a great blue heron standing several feet from flowing water, mossy fallen log, yellow alder leaves, forest reflected in creek, no prey in beak, quiet ecological scene with layered textures."
+    },
+    {
+      "pointId": "what-we-cannot-predict",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style field observation still life on a dry covered viewing-platform bench: open blank waterproof notebook, pencil, small camera, rain jacket, beyond them an out-of-focus forest stream in light rain, no text or chart markings.",
+      "seed": 908278,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:50.409592+00:00",
+      "sha256": "1743e7503191f5a9eb3f1bb5e4518559d456661d93fad2f709674b8c39e57026",
+      "promptId": "556c676b-bdec-46c6-9929-68fc3e277138",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/what-we-cannot-predict.webp",
+      "displaySha256": "7240dd1ff1cc697255a2fc1501cbff1d295bfba1d7f7090506391209a932c18a",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustrated field observation still life on a dry covered viewing-platform bench: open blank waterproof notebook, pencil, small camera, rain jacket, beyond them an out-of-focus forest stream in light rain, no text or chart markings."
+    },
+    {
+      "pointId": "choose-your-outing",
+      "prompt": "Landscape 16:9, high detail editorial nature photography aesthetic, realistic Pacific Northwest atmosphere, soft natural light, deep forest green and warm autumn gold, restrained film color, coherent physical perspective. A locally generated illustrative scene. No typography, labels, watermark, collage, diagram, split screen or frame. Photo-style wide view of two adults quietly watching from a wooden forest creek footbridge, seen from behind at a respectful distance, autumn Pacific Northwest forest, soft late-morning light, river takes most of composition, no faces or signage.",
+      "seed": 908279,
+      "model": "FLUX.2 Klein 4B distilled FP8",
+      "verifiedModels": [
+        {
+          "repo": "black-forest-labs/FLUX.2-klein-4b-fp8",
+          "revision": "5b4408e59397a4a37ccb46afe426d8ed86379441",
+          "file": "flux-2-klein-4b-fp8.safetensors",
+          "size": 4070624520,
+          "sha256": "97ed34fe0567e436200f2faee3939b88f2b5d99f8af2a4dc16532c4245c0ccb6",
+          "url": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4b-fp8/resolve/5b4408e59397a4a37ccb46afe426d8ed86379441/flux-2-klein-4b-fp8.safetensors",
+          "verified": true,
+          "downloadSeconds": 328.5416897999821
+        },
+        {
+          "repo": "Comfy-Org/flux2-klein-4B",
+          "revision": "5f526678002e43af5551dadb73ce2e8c91b43afe",
+          "file": "split_files/text_encoders/qwen_3_4b.safetensors",
+          "size": 8044982048,
+          "sha256": "6c671498573ac2f7a5501502ccce8d2b08ea6ca2f661c458e708f36b36edfc5a",
+          "url": "https://huggingface.co/Comfy-Org/flux2-klein-4B/resolve/5f526678002e43af5551dadb73ce2e8c91b43afe/split_files/text_encoders/qwen_3_4b.safetensors",
+          "verified": true,
+          "downloadSeconds": 503.2563828000566
+        },
+        {
+          "repo": "Comfy-Org/flux2-dev",
+          "revision": "ab9055628ea245000e610f2aa2c96f4746093546",
+          "file": "split_files/vae/flux2-vae.safetensors",
+          "size": 336213556,
+          "sha256": "d64f3a68e1cc4f9f4e29b6e0da38a0204fe9a49f2d4053f0ec1fa1ca02f9c4b5",
+          "url": "https://huggingface.co/Comfy-Org/flux2-dev/resolve/ab9055628ea245000e610f2aa2c96f4746093546/split_files/vae/flux2-vae.safetensors",
+          "verified": true,
+          "downloadSeconds": 24.17221009999048
+        }
+      ],
+      "width": 1280,
+      "height": 720,
+      "steps": 4,
+      "cfg": 1,
+      "sampler": "euler",
+      "generatedAt": "2026-09-09T03:27:54.503746+00:00",
+      "sha256": "34034156b4394f4ef0dd32e110ce664223f53cfd3007a83b152606c5a9090262",
+      "promptId": "82f2be2b-30a0-4aac-bb3a-9be00c205bd2",
+      "kind": "AI-generated illustration",
+      "displayPath": "images/choose-your-outing.webp",
+      "displaySha256": "c8bf4e70a12fa4947e66baad60ed3c406ef1d15ad746172d02680a7d30e0769d",
+      "caption": "Locally generated photo-style illustration; conceptual scene, not a field observation.",
+      "alt": "Illustrated wide view of two adults quietly watching from a wooden forest creek footbridge, seen from behind at a respectful distance, autumn Pacific Northwest forest, soft late-morning light, river takes most of composition, no faces or signage."
+    }
+  ],
+  "provenance": "Locally generated photo-style illustrations; not documentary photographs."
+}
